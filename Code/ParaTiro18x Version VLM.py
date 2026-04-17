@@ -9,7 +9,7 @@ from groq import Groq
 # =========================
 # Configuration
 # =========================
-GROQ_API_KEY = 
+GROQ_API_KEY =
 MODEL_NAME = "meta-llama/llama-4-scout-17b-16e-instruct"
 
 CAMERA_IP = "192.168.0.2"
