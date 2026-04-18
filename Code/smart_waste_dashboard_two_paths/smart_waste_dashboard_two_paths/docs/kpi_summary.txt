@@ -1,0 +1,9 @@
+KPI SUMMARY
+=====================
+Heaviest compartment: glass (395.00 g)
+Total latest weight: 1298.00 g
+Average total weight: 879.33 g
+Weight std dev: 249.51 g
+Emergency stop count: 5
+Latest detected type: glass
+Latest object name: glass bottle
